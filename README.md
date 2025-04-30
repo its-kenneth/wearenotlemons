@@ -2,4 +2,4 @@ This repository stores source code for frontend (HTML) and backend (Python) for 
 
 WebApp deployed on Vercel. 
 
-Access the Portal: [wearenotlemons.vercel.app](https://wearenotlemons.vercel.app)
+Access the Portal: [wearenotlemons-ten.vercel.app](wearenotlemons-ten.vercel.app)
